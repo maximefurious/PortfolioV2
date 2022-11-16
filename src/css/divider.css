@@ -1,0 +1,35 @@
+/* Divider */
+
+.wraper {
+    padding: 50px;
+    text-align: center;
+    font-family: sans-serif;
+    width: 60%;
+    margin: 10px auto;
+}
+
+.wraper ul {
+    border-top: 2px solid var(--dark);
+    display: flex;
+    list-style: none;
+    padding: 0;
+    justify-content: space-between;
+    align-items: stretch;
+    align-content: stretch;
+}
+
+.wraper li {
+    position: relative;
+    margin-top: 10px;
+}
+
+.wraper li::after {
+    content: "";
+    width: 10px;
+    height: 10px;
+    background: black;
+    position: absolute;
+    border-radius: 10px;
+    top: -18px;
+    border: 2px solid black;
+}

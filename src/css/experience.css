@@ -1,0 +1,74 @@
+/* Experience */
+
+
+/* Timeline */
+
+.experience__container {
+    display: flex;
+    justify-content: left;
+    margin-left: 15em;
+}
+
+.timeline {
+    border-left: 4px solid var(--light-dark-blue);
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+    background: var(--light);
+    color: var(--light-dark);
+    font-family: "Source Sans Pro", sans-serif;
+    letter-spacing: 0.5px;
+    position: relative;
+    line-height: 1.4em;
+    font-size: 1.03em;
+    padding: 50px;
+    list-style: none;
+    font-weight: 100;
+}
+
+.timeline h3 {
+    font-family: "Oswald", sans-serif;
+    letter-spacing: 1.5px;
+    font-weight: 100;
+    font-size: 1.4em;
+}
+
+.timeline .event {
+    border-bottom: 1px dashed var(--light-dark);
+    padding-bottom: 25px;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+.timeline .event:last-of-type {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border: none;
+}
+
+.timeline .event:before,
+.timeline .event:after {
+    position: absolute;
+    display: block;
+    top: 0;
+}
+
+.timeline .event:before {
+    left: -217.5px;
+    color: var(--light-dark);
+    content: attr(data-date);
+    text-align: right;
+    font-weight: 100;
+    font-size: 0.9em;
+    min-width: 120px;
+}
+
+.timeline .event:after {
+    box-shadow: 1px 1px 12px var(--gray);
+    left: -57.85px;
+    background: var(--light-dark);
+    border-radius: 50%;
+    height: 11px;
+    width: 11px;
+    content: "";
+    top: 5px;
+}

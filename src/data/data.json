@@ -1,0 +1,182 @@
+{
+    "Advender": {
+        "id": "Advender",
+        "projectName": "Advender",
+        "description": "Advender est un site internet destiné au grand public qui à pour principe un QCM aléatoire sur plusieurs thèmes. Ce site était un projet informatique en équipe de quatre dans le cadre d'une formation. scolaire.",
+        "projectStep": [
+            "Prise en compte d'un cahier des charges",
+            "Réalisation d'un StoryBoard",
+            "Développement",
+            "Tests",
+            "Présentation finale"
+        ],
+        "projectGithub": "https://github.com/maximefurious/Advender",
+        "img": "./src/image/Projet/Advender.webp",
+        "projectLanguage": [
+            "HTML",
+            "CSS",
+            "PHP",
+            "MySQL"
+        ]
+    },
+    "Eduq": {
+        "id": "Eduq",
+        "projectName": "Eduq Ton Ptit",
+        "description": "Eduq ton ptit est un site internet destiné aux enfants permettant un soutien scolaire du niveau CE2 à CM2. Ce site internet a été développé en équipe de 4 et à fait également l'objet d'un développement d'une application hybride.",
+        "projectStep": [
+            "Prise en compte d'un cahier des charges",
+            "Réalisation d'un StoryBoard",
+            "Développement",
+            "Tests",
+            "Présentation finale"
+        ],
+        "projectGithub": "https://github.com/maximefurious/EduqTonPtit",
+        "img": "./src/image/Projet/eduq.png",
+        "projectLanguage": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Android Studio"
+        ]
+    },
+    "maximeboujeant": {
+        "id": "maximeboujeant",
+        "projectName": "maximeboujeant.fr V1",
+        "description": "Première version d'une site web maximeboujeant.fr avec pour thème principal 'Les systèmes d'exploitations'.",
+        "projectStep": [
+            "Maquettage",
+            "Conception",
+            "Développement",
+            "Tests",
+            "Publication"
+        ],
+        "projectGithub": "https://github.com/maximefurious/maximeboujeant.frV1",
+        "img": "./src/image/Projet/Ancien_Site.webp",
+        "projectLanguage": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PHP",
+            "Sass",
+            "Cypress"
+        ]
+    },
+    "FuriousShell": {
+        "id": "FuriousShell",
+        "projectName": "FuriousShell",
+        "description": "Réalisation d'un site web pour portefolio avec pour thème un 'Shell linux', projet réaliser dans le but d'approfondir les connaissance en JavaScript",
+        "projectStep": [
+            "Maquettage",
+            "Développement",
+            "Tests"
+        ],
+        "projectGithub": "https://github.com/maximefurious/FuriousShell",
+        "img": "./src/image/Projet/Site_Shell.jpg",
+        "projectLanguage": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    "Yams": {
+        "id": "Yams",
+        "projectName": "Yams",
+        "description": "Lors d'un projet, j'ai réalisé un jeu de YAMS à deux joueurs, fonctionnant grâce au langage C. Le principe était qu’il y avait deux joueurs, et que le yams s’affichait dans un terminal. Ce projet, a été réalisé en plusieurs étapes,en commençant par la prise en compte d 'un cahier des charges, puis la réalisation de la maquette de la grille des scores, ensuite est venu la rédaction d'un cahier de test, puis la phase de conception d 'un algorithme en langage naturel et enfin est venu la phase de conception en langage C ainsi que la phase de test à l 'aide du cahier de test rédigé plus tôt.",
+        "projectStep": [
+            "Prise en compte du cahier des charges",
+            "Maquettage",
+            "Réalisation de jeu de Tests",
+            "Pseudo-code",
+            "Développement",
+            "Tests",
+            "Documentation"
+        ],
+        "projectGithub": "https://github.com/maximefurious/Yams",
+        "img": "./src/image/Projet/Yams.png",
+        "projectLanguage": [
+            "C"
+        ]
+    },
+    "Kohfrais": {
+        "id": "Kohfrais",
+        "projectName": "Kohfrais",
+        "description": "KohFrais est un site vitrine de glace réaliser en équipe de quatre dans le cadre d'une évaluation à l'IUT. Ce projet, a été réalisé en plusieurs étapes, la première étant la phase de synthèse des besoins clients d'après une interview, ensuite est venu la phase de conception de la maquette, puis de l'arborescence et enfin est venu la partie développement en équipe du site web.",
+        "projectStep": [
+            "Recueil du besoin client",
+            "Maquettage",
+            "Développement",
+            "Test",
+            "Présentation Oral"
+        ],
+        "projectGithub": "https://github.com/maximefurious/KohFrais",
+        "img": "./src/image/Projet/kohfrais.webp",
+        "projectLanguage": [
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "GitLab"
+        ]
+    },
+    "Ludo": {
+        "id": "Ludo",
+        "projectName": "Ludothèque",
+        "description": "Réalisation d'un site vitrine pour une association, permettant la visualisation des différents jeux de société afin de pouvoir promouvoir davantage la ludothèque de Rostrenen",
+        "projectStep": [
+            "Recueil du besoin client",
+            "Maquettage",
+            "Développement",
+            "Test",
+            "Présentation à la présidence de l'association"
+        ],
+        "projectGithub": null,
+        "img": "./src/image/Projet/ludo.webp",
+        "projectLanguage": [
+            "HTML",
+            "CSS",
+            "Sass",
+            "PHP",
+            "MySQL"
+        ]
+    },
+    "Journal": {
+        "id": "Journal",
+        "projectName": "Mon Journal Secret",
+        "description": "Réalisation d'un site de memoire secret avec un ensemble de page d'inscription et de connexion, ainsi qu'un système d'administration, en équipe de 4",
+        "projectStep": [
+            "Planification",
+            "Codage",
+            "Rapport",
+            "Présentation oral"
+        ],
+        "projectGithub": "https://github.com/maximefurious/MonJournalSecret",
+        "img": "./src/image/Projet/Journal.jpg",
+        "projectLanguage": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PHP",
+            "MySQL",
+            "Apache",
+            "CronTab"
+        ]
+    },
+    "Beaurivage": {
+        "id": "Beaurivage",
+        "projectName": "Beaurivage",
+        "description": "Réalisation d'un lot pour un logiciel de gestion des réservations d'un camping dans le cadre d'un projet scolaire. Réalisation d'es différentes phases de gestion de projet ainsi que des phase de développemen,t en équipe de 4.",
+        "projectStep": [
+            "Étude de la faisabilité et des fonctions (notes de cadrage, SEL)",
+            "Étude des délais et des durées (Diagrammes de GANTT, réseau PERT)",
+            "Étude des ressources (Organigramme des tâches, matrice RACI)",
+            "Étude des coûts (coûts prévisionnels, coûts finaux)",
+            "Développement du logiciel en équipe"
+        ],
+        "projectGithub": null,
+        "img": "./src/image/Projet/beaurivage.webp",
+        "projectLanguage": [
+            "Gestion de Projet",
+            "Java",
+            "JavaFX"
+        ]
+    }
+}

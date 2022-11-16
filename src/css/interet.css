@@ -1,0 +1,45 @@
+/* Centre d'interêt */
+
+#interet__box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#interet__box>div {
+    height: 400px;
+    width: 400px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#interet__box>div:hover:before {
+    opacity: 1;
+}
+
+#interet__box>div img {
+    width: 350px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 12px var(--gray);
+}
+
+#interet__box>div img:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+#interet__box>div .text {
+    position: relative;
+    top: -20px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

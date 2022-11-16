@@ -1,0 +1,24 @@
+/* FORMATION */
+
+#formation__box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    border-radius: 10px;
+    padding: 2rem;
+    background-color: var(--box-background-light);
+    box-shadow: 1px 1px 12px var(--gray);
+}
+
+#formation__box div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#formation__box img {
+    width: 400px;
+    border-radius: 10px;
+}
